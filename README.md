@@ -42,4 +42,4 @@ O site possui um menu de navegação padrão presente em todas as páginas, perm
 Para visualizar o site, basta clonar este repositório e abrir qualquer um dos arquivos HTML em um navegador da web.
 
 ```bash
-git clone https://github.com/seu-usuario/clinica-medica.git
+git clone https://github.com/40mateus/Clinica-de-sa-de-.git
